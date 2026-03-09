@@ -1,0 +1,25 @@
+# Spotify Genre Classifier
+
+This project predicts the genre of songs using Spotify audio features.
+
+## Dataset
+Spotify audio features dataset.
+
+## Features Used
+- danceability
+- energy
+- loudness
+- speechiness
+- acousticness
+- instrumentalness
+- liveness
+- valence
+- tempo
+
+## Model
+Random Forest Classifier
+
+## Accuracy
+0.22346491228070176 or 22.346%
+## Tools
+Python, Pandas, Scikit-Learn, Google Colab
