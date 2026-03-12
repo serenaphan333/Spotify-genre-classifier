@@ -3,7 +3,7 @@
 This project predicts the genre of songs using Spotify audio features.
 
 ## Dataset
-Spotify audio features dataset.
+Spotify audio features dataset from Kaggle: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download
 
 ## Features Used
 - danceability
