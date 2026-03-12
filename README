@@ -21,5 +21,6 @@ Random Forest Classifier
 
 ## Accuracy
 0.22346491228070176 or 22.346%
+
 ## Tools
 Python, Pandas, Scikit-Learn, Google Colab
